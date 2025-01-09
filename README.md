@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Adel</h1>
-<h3 align="center">An innovative frontend web developer, Eager to advance my skills and learn new technologies.</h3>
+<h3 align="center">An innovative frontend web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed45adel&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed45adel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed45adel" alt="ahmed45adel" /></a> </p>
-
-- 📫 How to reach me **ahmed45adel@yahoo.com** or **es-ahmed.adel1318@alexu.edu.eg**
+- 📫 How to reach me **ahmed45adel@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
