@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed45adel&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed45adel" /> </p>
 
-- 📫 How to reach me **ahmed45adel@yahoo.com**
+- How to reach me **ahmed45adel@yahoo.com**
+- [My portfolio](https://ahmed-adel-portfolio.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
